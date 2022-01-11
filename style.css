@@ -1,11 +1,12 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    line-height: 3;   
+    line-height: 3;
+       
 }
 
 textarea {
-    background: color #f2a30b; 
+    background: white; 
     border: none;
     resize: none;
     color: black;
@@ -18,7 +19,7 @@ textarea {
 
 .jumbotron {
     text-align: center;
-    background-color: #f2a30b;
+    background-color: white;
     color: black;
     border-bottom: 10px black;
     border-radius: 0;
@@ -30,22 +31,22 @@ textarea {
 }
 
 .past {
-    background-color: #f2a30b;
+    background-color: white;
     color: white;
 }
 
 .future {
-    background-color: #0c2fdf;
+    background-color: white;
     color: white;
 }
 
 .present {
-    background-color: #fbe407;
+    background-color: white;
     color: white;
 }
 
 .hour {
-    background-color: #ffe182;
+    background-color: white;
     color: white;
     border-top: 2px;
 }
@@ -60,7 +61,7 @@ textarea {
     border-top-right-radius: 15px;
     border-left: 1px white;
     border-bottom-right-radius: 15px;
-    background-color: #0c2fdf;
+    background-color: white;
     color: black;
 }
 
